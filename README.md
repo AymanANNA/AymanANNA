@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayman Anna</h1>
-<h3 align="center">A Software engineer student at Ensias</h3>
+<h3 align="center">A Software engineering student at Ensias</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymananna&label=Profile%20views&color=0e75b6&style=flat" alt="aymananna" /> </p>
 
